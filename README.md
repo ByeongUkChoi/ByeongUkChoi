@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![youtube](https://img.shields.io/badge/youtube-channel-red?logo=youtube)](https://www.youtube.com/channel/UCMxtA1dfj4mpfI6mYgGrrQw)
 [![docker](https://img.shields.io/badge/docker-hub-blue?logo=docker)](https://hub.docker.com/u/cbw0916)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ByeongUkChoi&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=ByeongUkChoi&show_icons=true&theme=dark)
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongUkChoi&layout=compact&hide=html,css)
 -->
