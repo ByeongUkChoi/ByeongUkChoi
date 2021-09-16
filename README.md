@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![blog](https://img.shields.io/badge/blog-unhosted.tistory.com-green?logo=rss&link=naver.com)](https://unhosted.tistory.com)
-<!-- [![linkedin](https://img.shields.io/badge/linkedin-profile-blue?logo=linkedin)](https://www.linkedin.com/in/cbw0916) -->
 [![youtube](https://img.shields.io/badge/youtube-channel-red?logo=youtube)](https://www.youtube.com/channel/UCMxtA1dfj4mpfI6mYgGrrQw)
 [![docker](https://img.shields.io/badge/docker-hub-blue?logo=docker)](https://hub.docker.com/u/cbw0916)
 
