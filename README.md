@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![blog](https://img.shields.io/badge/blog-unhosted.tistory.com-green?logo=rss&link=naver.com)](https://unhosted.tistory.com)
 [![youtube](https://img.shields.io/badge/youtube-channel-red?logo=youtube)](https://www.youtube.com/channel/UCMxtA1dfj4mpfI6mYgGrrQw)
 [![docker](https://img.shields.io/badge/docker-hub-blue?logo=docker)](https://hub.docker.com/u/cbw0916)
+-->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ByeongUkChoi&show_icons=true&theme=dark)
 <!--
